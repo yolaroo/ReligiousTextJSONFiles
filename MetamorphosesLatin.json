@@ -3,6 +3,7 @@
         "book": [
             {
                 "title": "Metamorphoses",
+                "bookGroup" : "Metamorphoses",
                 "chapter": [
                     {
                         "chapterNumber": "1",
