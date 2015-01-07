@@ -1,4 +1,5 @@
-  "document": {
+{
+"document": {
     "book": [
       {
         "bookGroup": "Torah",
@@ -25805,7 +25806,7 @@
               "But the king shall rejoice in God; Every one that swears by him shall glory; For the mouth of them that speak lies shall be stopped."
             ]
           },
-
+          {
             "chapterNumber": "64",
             "chapterlineText": [
               "For the Leader. A Psalm of David.",
